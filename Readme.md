@@ -76,4 +76,4 @@ Route: /profile => profile
 
 1.  install dependencies
     - npm i
-2.
+
