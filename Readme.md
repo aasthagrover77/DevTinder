@@ -72,8 +72,17 @@ Route: /profile => profile
     sudo scp -r dist/* /var/www/html/
 15. Enable port 80
 
-### Backend:
 
-1.  install dependencies
-    - npm i
+---
+
+## ⚙️ Run Locally
+
+### Backend
+
+```bash
+cd Backend
+npm install
+npm run dev
+
+
 
